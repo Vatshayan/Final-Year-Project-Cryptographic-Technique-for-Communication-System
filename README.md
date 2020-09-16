@@ -1,5 +1,5 @@
 # Final-year-Project-Cryptographic-Technqiue-for-Communication-System-
-<H3> "Design and Analysis of Cryptographic Technique for Communication System"<H3>
+## "Design and Analysis of Cryptographic Technique for Communication System"
 
 
 
@@ -9,7 +9,7 @@ Project has been done in Supervision of my Guide "Dr.Raza Abbas haidri" and Ment
 
 I thanks all my Guide, Mentors and Galgotias University for Successful Project Submission and Good marks. 
 
-<H4> I have been Graded A+ and 9 SGPA in Sem 8 for my Combo work as for Working Python project and Scopus IEEE Research paper.<H4>
+### I have been Graded A+ and 9 SGPA in Sem 8 for my Combo work as for Working Python project and Scopus IEEE Research paper.
 
 Abstract- 
 
