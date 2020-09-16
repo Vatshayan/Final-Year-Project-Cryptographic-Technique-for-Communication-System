@@ -20,7 +20,7 @@ In Today’s world Sensitive data is increasingly used in communication over the
 Keywords: Encryption, Cryptography, Algorithm, Ciphers
 
 
-#### Contact me ( Vatshayan007@gmail.com) for Project, Code and Research paper.
+### Contact me ( Vatshayan007@gmail.com) for Project, Code and Research paper.
 ###### Feel free to contact me for any kind help on projects related to Machine Learning, Data Science, Cryptography, DIP and SaaS.
 
 Lets Join, Learn and Grow together !!!!
