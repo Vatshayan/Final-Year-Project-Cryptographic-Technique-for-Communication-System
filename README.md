@@ -3,10 +3,10 @@ Design and Analysis of Cryptographic Technique for Communication System
 
 
 
-This Project Been done in 8th Sem of Final year B.tech Computer Science Engineering.
+This Project had been done in 8th Sem of Final year of my B.tech Computer Science Engineering 2020.
 Project has been done in Supervision of my Guide "Dr.Raza Abbas haidri" and Mentors "Dr. Anchal
 
-I have been Graded A+ and 9 SGPA for my Combo as for Working project and Scopus IEEE Research paper.
+I have been Graded A+ and 9 SGPA in Sem 8 for my Combo word as for Working Python project and Scopus IEEE Research paper.
 
 Abstract- 
 
