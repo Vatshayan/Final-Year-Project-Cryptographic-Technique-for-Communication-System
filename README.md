@@ -27,6 +27,3 @@ Keywords: Encryption, Cryptography, Algorithm, Ciphers
 This Project is very easy to Understand, Implement and Interesting !
 
 Lets Join, Learn and Grow together !!!!
-
-your friend, 
-Vatshayan :-)
