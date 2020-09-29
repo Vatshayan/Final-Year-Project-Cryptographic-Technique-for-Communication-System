@@ -3,7 +3,7 @@
 
 
 
-This Project had been done in 8th Sem of Final year of my B.tech Computer Science Engineering 2020.
+This Project has been done in 8th Sem of Final year of my B.tech Computer Science Engineering 2020.
 
 Project has been done in Supervision of my Guide "Dr.Raza Abbas haidri" and Mentor "Dr.Anchal vig"
 
@@ -22,8 +22,11 @@ Keywords: Encryption, Cryptography, Algorithm, Ciphers
 
 
 ### Contact me ( Vatshayan007@gmail.com) for Project, Code, PPT, Report, Synopsis and Research paper.
-###### Feel free to contact me for any kind help on projects related to Machine Learning, Data Science, Cryptography, DIP and SaaS
+###### Feel free to contact me for any kind of help on projects related to Machine Learning, Data Science, Cryptography, DIP and SaaS
 
 This Project is very easy to Understand, Implement and Interesting !
 
 Lets Join, Learn and Grow together !!!!
+
+your friend, 
+Vatshayan :-)
