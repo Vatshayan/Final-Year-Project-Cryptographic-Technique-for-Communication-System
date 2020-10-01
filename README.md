@@ -1,4 +1,4 @@
-# Final-year-Project-Cryptographic-Technqiue-for-Communication-System-
+# Final year Project Cryptographic Technqiue for Communication System
 ## "Design and Analysis of Cryptographic Technique for Communication System"
 
 
@@ -21,7 +21,7 @@ Keywords: Encryption, Cryptography, Algorithm, Ciphers.
 
 It's fully Python programming Project.
 
-### Contact me Now (Vatshayan007@gmail.com) for Project, Code, PPT, Report, Synopsis and Research paper.
+### Contact me Now (Vatshayan007@gmail.com) for this Project, Code, PPT, Report, Synopsis and Research paper.
 ###### Feel free to contact me for any kind of help on projects related to Machine Learning, Data Science, Cryptography, DIP, Web technologies and Cloud.
 
 This Project is very easy to Understand, Implement and Interesting !
