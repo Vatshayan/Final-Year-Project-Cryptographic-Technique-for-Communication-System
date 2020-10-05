@@ -12,7 +12,7 @@ I thanks all my Guide, Mentors and Galgotias University for Successful Project S
 This Project also been discussed and approved by DRDO Security Scientist "E" for its Efficiancy and Idea.
 
 
-### I have been Graded A+ and 9 SGPA in Sem 8 for my Combo work as for Working Python project and Scopus IEEE Research paper.
+### I have been Graded A+ and 9 SGPA in Sem 8 for my Combo work as for Working Python project and Publishing Scopus IEEE Research paper.
 
 Abstract- 
 
@@ -22,8 +22,11 @@ Keywords: Encryption, Cryptography, Algorithm, Ciphers.
 
 It's fully Python programming Project.
 
-### Contact me Now (Vatshayan007@gmail.com) for this Project, Code, PPT, Report, Synopsis and Research paper.
+### Contact me Now (Vatshayan007@gmail.com) for this Project Code, PPT, Report, Synopsis and Research paper of this Project.
 ###### Feel free to contact me for any kind of help on projects related to Machine Learning, Data Science, Cryptography, DIP, Web technologies and Cloud.
+
+If you are not able to Understand this Great Project then Mail me now, I will explain every details and description to you very easily. 
+Happy to help you learn and prosper. 
 
 This Project is very easy to Understand, Implement and Interesting !
 
