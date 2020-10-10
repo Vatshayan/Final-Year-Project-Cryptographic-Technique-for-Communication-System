@@ -31,7 +31,7 @@ A Video has also been made to explain this project smoothly and lucid manner. Ma
 
 #### I Usually reply Mails in minutes. Waiting for your Doubts!
 
-#### We will do Zoom, Google meet, Webex or Teams for learning about this Project. If you have doubys about this Project.
+#### We will do Zoom, Google meet, Webex or Teams for learning about this Project. If you have doubts about this Project.
 
 This Project is very easy to Understand, Implement and Interesting ! (It's fully Python programming Project)
 
