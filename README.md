@@ -1,6 +1,7 @@
 # CRYPTOGRAPHIC TECHNIQUE FOR COMMUNICATION SYSTEM
-## "Design and Analysis of Cryptographic Technique for Communication System"
+**Design and Analysis of Cryptographic Technique for Communication System**
 
+![encryptionprocess](https://user-images.githubusercontent.com/28294942/103001367-da7a1200-4552-11eb-969a-1a2f9af22449.jpg)
 
 
 This Project has been done in 8th Sem of Final year of my B.tech Computer Science Engineering 2020.
