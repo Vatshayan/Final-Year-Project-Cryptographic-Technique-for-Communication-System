@@ -20,6 +20,11 @@ In Today’s world Sensitive data is increasingly used in communication over the
 
 Keywords: Encryption, Cryptography, Algorithm, Ciphers.
 
+## RESEARCH PAPER
+
+I have Published a IEEE Research Paper(scopus) on this Project on Sept 2020. 
+You can view and read my Research paper at - https://ieeexplore.ieee.org/document/9199997 
+
 *********************************************************************************************************************************************************************************
 
 Hello Brothers & Sisters :-)
@@ -28,7 +33,7 @@ Hello Brothers & Sisters :-)
 
 
 ### HOW TO RUN THE PROJECT-
-Email me at vatshayan007@gmail.com to get a detailed guide report to run the project with source Code.
+Email me at vatshayan007@gmail.com to get a detailed Guide report to run the project with source Code.
 
 If you are not able to Understand this Great Project then Mail me now, I will explain every details and description to you very easily. 
 A Video has also been made to explain this project smoothly and lucid manner. Mail me Now !!
