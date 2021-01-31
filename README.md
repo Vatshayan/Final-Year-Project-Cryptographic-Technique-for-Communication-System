@@ -43,4 +43,6 @@ A Video has also been made to explain this project smoothly and lucid manner. Ma
 
 #### I Usually reply Mails in minutes. Waiting for your Doubts!
 
+Read this Blog on **https://college-projects-help.blogspot.com/2021/01/cryptographic-technique-for.html**
+
 Lets Join, Learn and Grow together !!!!
