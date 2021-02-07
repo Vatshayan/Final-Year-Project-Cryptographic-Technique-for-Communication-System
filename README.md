@@ -39,8 +39,7 @@ Feel free to contact me for any kind of help on projects related to Machine Lear
 Email me at **vatshayan007@gmail.com** to get a detailed Guide report to run the project with source Code.
 
 
-#### I Usually reply Mails in minutes. Waiting for your Doubts!
+#### I Usually Send all the files as soon as possible you send the mails.
 
-Read this Blog on **https://college-projects-help.blogspot.com/2021/01/cryptographic-technique-for.html**
 
 Lets Join, Learn and Grow together !!!!
