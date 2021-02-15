@@ -28,9 +28,11 @@ I have Published a IEEE Research Paper(scopus) on this Project on Sept 2020.
 You can view and read my Research paper at- **https://ieeexplore.ieee.org/document/9199997** 
 
 ![IEEE_paper_image](https://user-images.githubusercontent.com/28294942/102985981-10f56400-4536-11eb-94ed-5647af384dea.PNG)
-*********************************************************************************************************************************************************************************
+******************************************************************************************************************************************************************************
 
-Hello Brothers & Sisters,
+Hi there, 
+
+- You Can use this Beautiful Project for your college Project and get good marks too. 
 ### Email me Now vatshayan007@gmail.com for this Project Code, PPT, Report, Synopsis, Video Presentation and Research paper of this Project.
 Feel free to contact me for any kind of help on projects related to Machine Learning, Data Science, Cryptography, DIP, Web technologies and Cloud.
 
