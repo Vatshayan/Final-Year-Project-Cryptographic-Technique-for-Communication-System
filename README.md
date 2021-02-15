@@ -40,8 +40,9 @@ Feel free to contact me for any kind of help on projects related to Machine Lear
 ### HOW TO RUN THE PROJECT-
 Email me at **vatshayan007@gmail.com** to get a detailed Guide report to run the project with source Code.
 
-
 #### I Usually Send all the files as soon as possible you send the mails.
 
+### INTERNSHIP 
+Internship oppurtunity for everyone - https://github.com/Vatshayan/INTERNSHIP
 
 Lets Join, Learn and Grow together !!!!
