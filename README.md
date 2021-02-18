@@ -1,4 +1,4 @@
-# ⚡ CRYPTOGRAPHIC TECHNIQUE FOR COMMUNICATION SYSTEM ⚡
+#  CRYPTOGRAPHIC TECHNIQUE FOR COMMUNICATION SYSTEM 
 **Design and Analysis of Cryptographic Technique for Communication System**
 
 ![encryptionprocess](https://user-images.githubusercontent.com/28294942/103001367-da7a1200-4552-11eb-969a-1a2f9af22449.jpg)
@@ -34,8 +34,8 @@ You can view and read my Research paper at- **https://ieeexplore.ieee.org/docume
 
 You Can use this Beautiful Project for your college Project and get good marks too. 
 
-### Email me Now vatshayan007@gmail.com for this Project Code, PPT, Report, Synopsis, Video Presentation and Research paper of this Project.
-👯 Feel free to contact me for any kind of help on projects related to Machine Learning, Data Science, Cryptography, DIP, Web technologies and Cloud.
+Email me Now vatshayan007@gmail.com for this Project Code, PPT, Report, Synopsis, Video Presentation and Research paper of this Project.
+💌 Feel free to contact me for any kind of help on projects related to Machine Learning, Data Science, Cryptography, DIP, Web technologies and Cloud.
 
 
 ### HOW TO RUN THE PROJECT-
@@ -47,7 +47,7 @@ You Can use this Beautiful Project for your college Project and get good marks t
 
 ### 📫 HOW TO REACH ME 
 
-💬 Click on this link to message me directly on Whatsapp- **https://wa.me/message/CHWN2AHCPMAZK1**
+💬 Click on this link to message me directly on **Whatsapp- https://wa.me/message/CHWN2AHCPMAZK1**
 
 💬 Gmail: **vatshayan007@gmail.com**
 
