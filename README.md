@@ -8,7 +8,7 @@
 
 Project has been done in Supervision of my Guide "Dr.Raza Abbas haidri" and Mentor "Dr.Anchal vig"
 
-I thanks all my Guide, Mentors and Galgotias University for Successful Project Submission and Good marks. 
+This Project is Salute to Army, Police and Security Officers from me(Real Lie Prbolem Solving Project)
 
 This Project also been discussed and approved by DRDO Security Scientist "E" for its Efficiancy and Idea.
 
@@ -34,13 +34,13 @@ You can view and read my Research paper at- **https://ieeexplore.ieee.org/docume
 
 You Can use this Beautiful Project for your college Project and get good marks too. 
 
-Email me Now vatshayan007@gmail.com for this Project Code, PPT, Report, Synopsis, Video Presentation and Research paper of this Project.
+Email me Now **vatshayan007@gmail.com** to get this Full Project Code, PPT, Report, Synopsis, Video Presentation and Research paper of this Project.
+
 💌 Feel free to contact me for any kind of help on projects related to Machine Learning, Data Science, Cryptography, DIP, Web technologies and Cloud.
 
 
 ### HOW TO RUN THE PROJECT-
 ⚡ Email me at **vatshayan007@gmail.com** to get a detailed Guide report to run the project with source Code.
-
 
 ### INTERNSHIP 
 🌟 Internship oppurtunity for everyone - https://github.com/Vatshayan/INTERNSHIP
@@ -52,3 +52,5 @@ Email me Now vatshayan007@gmail.com for this Project Code, PPT, Report, Synopsis
 💬 Gmail: **vatshayan007@gmail.com**
 
 Happy to Help you😄😅
+
+Jai Hind !
