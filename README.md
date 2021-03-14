@@ -25,7 +25,7 @@ Keywords: Encryption, Cryptography, Algorithm, Ciphers.
 
 🔥 I have Published a IEEE Research Paper(scopus) on this Project on Sept 2020.
 
-You can view and read my Research paper at- **https://ieeexplore.ieee.org/document/9199997** 
+You can view and read my Research paper at- [LINK](https://ieeexplore.ieee.org/document/9199997) 
 
 ![IEEE_paper_image](https://user-images.githubusercontent.com/28294942/102985981-10f56400-4536-11eb-94ed-5647af384dea.PNG)
 ******************************************************************************************************************************************************************************
