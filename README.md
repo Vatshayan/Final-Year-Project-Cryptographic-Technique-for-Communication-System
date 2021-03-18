@@ -4,13 +4,13 @@
 ![encryptionprocess](https://user-images.githubusercontent.com/28294942/103001367-da7a1200-4552-11eb-969a-1a2f9af22449.jpg)
 
 
-👉 This Project has been done in 8th Sem of Final year of my B.tech Computer Science Engineering 2020.
+✅  This Project has been done in 8th Sem of Final year of my B.tech Computer Science Engineering 2020.
 
-Project has been done in Supervision of my Guide "Dr.Raza Abbas haidri" and Mentor "Dr.Anchal vig"
+✅  Project has been done in Supervision of my Guide "Dr.Raza Abbas haidri" and Mentor "Dr.Anchal vig"
 
-This Project is my Salute to Army, Police and Security Officers. (Real Life Problem Solving Project)
+✅  This Project is my Salute to Army, Police and Security Officers. (Real Life Problem Solving Project)
 
-This Project also been discussed and approved by DRDO Security Scientist "E" for its Efficiancy and Idea.
+✅  This Project also been discussed and approved by DRDO Security Scientist "E" for its Efficiancy and Idea.
 
 
 ### ✌️ I have been Graded A+ and 9 SGPA in Sem 8 for my Combo work as for Working Python project and Publishing Scopus IEEE Research paper.
@@ -53,4 +53,4 @@ Email me Now **vatshayan007@gmail.com** to get this Full Project Code, PPT, Repo
 
 Happy to Help you😄😅
 
-Jai Hind !
+Jai Hind :)
