@@ -38,6 +38,10 @@ Email me Now **vatshayan007@gmail.com** to get this Full Project Code, PPT, Repo
 
 💌 Feel free to contact me for any kind of help on projects related to Machine Learning, Data Science, Cryptography, DIP, Web technologies and Cloud.
 
+### WANT RESEARCH PAPER
+ Email me at **vatshayan007@gmail.com** to get PDF of Research paper.
+ 
+ Want New Research Paper : **[Samples](https://projectspro.in/research-papers)**
 
 ### HOW TO RUN THE PROJECT-
 ⚡ Email me at **vatshayan007@gmail.com** to get a detailed Guide report to run the project with source Code.
