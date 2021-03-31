@@ -8,7 +8,7 @@
 
 ✅  Project has been done in Supervision of my Guide "Dr.Raza Abbas haidri" and Mentor "Dr.Anchal vig"
 
-✅  This Project is my Salute to Army, Police and Security Officers. (Real Life Problem Solving Project)
+✅  This Project is Salute to Army, Police and Security Officers. (Real Life Problem Solving Project)
 
 ✅  This Project also been discussed and approved by DRDO Security Scientist "E" for its Efficiancy and Idea.
 
@@ -56,5 +56,3 @@ Email me Now **vatshayan007@gmail.com** to get this Full Project Code, PPT, Repo
 💬 Gmail: **vatshayan007@gmail.com**
 
 Happy to Help you😄😅
-
-Jai Hind :)
