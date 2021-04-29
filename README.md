@@ -36,7 +36,7 @@ You Can use this Beautiful Project for your college Project and get good marks t
 
 Email me Now **vatshayan007@gmail.com** to get this Full Project Code, PPT, Report, Synopsis, Video Presentation and Research paper of this Project.
 
-💌 Feel free to contact me for any kind of help on projects related to Machine Learning, Data Science, Cryptography, DIP, Web technologies and Cloud.
+💌 Feel free to contact me for any kind of help on projects.
 
 ### WANT RESEARCH PAPER
  Email me at **vatshayan007@gmail.com** to get PDF of Research paper.
