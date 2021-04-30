@@ -46,7 +46,7 @@ Email me Now **vatshayan007@gmail.com** to get this Full Project Code, PPT, Repo
 
 ### 📫 HOW TO REACH ME 
 
-💬 WhatsApp: **[LINK](https://wa.me/message/CHWN2AHCPMAZK1)** : +91 9310631437 (Helping 24*7)
+💬 WhatsApp: **[LINK](https://wa.me/message/CHWN2AHCPMAZK1) : +91 9310631437 (Helping 24*7)**
 
 💬 Gmail: **vatshayan007@gmail.com**
 
