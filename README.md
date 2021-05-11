@@ -53,6 +53,8 @@ Email me Now **vatshayan007@gmail.com** to get this Full Project Code, PPT, Repo
 
 ## PROJECTS HELP: [LINK](https://vatshayan007.wixsite.com/website)
 
-**Other new Final Year Project you may like 30 April 2021 (NEW PROJECT): [LINK](https://github.com/Vatshayan/Image-Security-by-Triple-DES-Final-Year-Project)**
+**Other new Final Year Project on Security you may like 30 April 2021 (NEW PROJECT): [LINK](https://github.com/Vatshayan/Image-Security-by-Triple-DES-Final-Year-Project)**
+
+**Another New Final Year Project on Machine Learning 11 May 2021(New Project):[LINK](https://github.com/Vatshayan/Final-Year-Project-Stock-Price-Prediction-by-Deep-Learning)**
 
 Happy to Help you😄😅
