@@ -33,7 +33,7 @@ You can view and read my Research paper at- **[LINK](https://ieeexplore.ieee.org
 <h1 align="center"> नमस्ते (Namaste) 🙏🏻 , I'm Shivam Vatshayan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 <h3 align="center">I'm a Developer from India ❤</h3>
 
-You Can use this Beautiful Project for your college Project and get good marks too. 
+**You Can use this Beautiful Project for your college Project and get good marks too.**
 
 Email me Now **vatshayan007@gmail.com** to get this Full Project Code, PPT, Report, Synopsis, Video Presentation and Research paper of this Project.
 
@@ -57,4 +57,8 @@ Email me Now **vatshayan007@gmail.com** to get this Full Project Code, PPT, Repo
 
 **Another New Final Year Project on Machine Learning 11 May 2021(New Project):[LINK](https://github.com/Vatshayan/Final-Year-Project-Stock-Price-Prediction-by-Deep-Learning)**
 
-Happy to Help you😄😅
+मित्र, বন্ধু, நண்பர், friend I am here to help you, Don't worry Mail me😄
+
+I can feel your Pain, stress and overload of work.  
+
+Happy to Help you😅
