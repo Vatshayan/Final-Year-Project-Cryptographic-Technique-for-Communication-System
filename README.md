@@ -57,8 +57,7 @@ Email me Now **vatshayan007@gmail.com** to get this Full Project Code, PPT, Repo
 
 **Another New Final Year Project on Machine Learning 11 May 2021(New Project):[LINK](https://github.com/Vatshayan/Final-Year-Project-Stock-Price-Prediction-by-Deep-Learning)**
 
-### Youtube video 
-Youtube video of the project: **https://youtu.be/DcmO-Xe7GVk**
+### Youtube video of the project: **https://youtu.be/DcmO-Xe7GVk**
 
 मित्र, বন্ধু, நண்பர், friend I am here to help you, Don't worry Mail me😄
 
