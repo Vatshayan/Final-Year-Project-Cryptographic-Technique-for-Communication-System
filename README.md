@@ -51,7 +51,7 @@ Email me Now **vatshayan007@gmail.com** to get this Full Project Code, PPT, Repo
 
 💬 Gmail: **vatshayan007@gmail.com**
 
-## PROJECTS HELP: [LINK](https://vatshayan007.wixsite.com/website)
+## PROJECTS HELP: [LINK1](https://vatshayan007.wixsite.com/website) and [LINK2](https://computerscienceproject.com/)
 
 **Other new Final Year Project on Security you may like 30 April 2021 (NEW PROJECT): [LINK](https://github.com/Vatshayan/Image-Security-by-Triple-DES-Final-Year-Project)**
 
