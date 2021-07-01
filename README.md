@@ -53,8 +53,6 @@ Email me Now **vatshayan007@gmail.com** to get this Full Project Code, PPT, Repo
 
 💬 Gmail: **vatshayan007@gmail.com**
 
-## PROJECTS HELP: [LINK1](https://vatshayan007.wixsite.com/website) and [LINK2](https://computerscienceproject.com/)
+## PROJECTS WEBSITES: [LINK1](https://vatshayan007.wixsite.com/website) and [LINK2](https://projectspro.in)
 
 मित्र, বন্ধু, நண்பர், دوست, స్నేహితుడు, friend I am here to help you, Don't worry Mail or Message me anytime😄
-
-Check this out [**Project**](https://computerscienceproject.com/) June 2021
