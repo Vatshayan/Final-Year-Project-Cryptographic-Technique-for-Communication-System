@@ -57,4 +57,4 @@ Email me Now **vatshayan007@gmail.com** to get this Full Project Code, PPT, Repo
 
 मित्र, বন্ধু, நண்பர், دوست, స్నేహితుడు, friend I am here to help you, Don't worry Mail or Message me anytime😄
 
-Check this out [**Project**](https://computerscienceproject.com/) 20 June 2021
+Check this out [**Project**](https://computerscienceproject.com/) June 2021
