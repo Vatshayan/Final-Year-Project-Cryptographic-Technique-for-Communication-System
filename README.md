@@ -53,7 +53,7 @@ Email me Now **vatshayan007@gmail.com** to get this Full Project Code, PPT, Repo
 
 💬 Gmail: **vatshayan007@gmail.com**
 
-## PROJECTS WEBSITES: [LINK1](https://vatshayan007.wixsite.com/website) and [LINK2](https://projectspro.in)
+## PROJECTS WEBSITE: [LINK1](https://vatshayan007.wixsite.com/website)
 
 ## INTERNSHIP (LEARN & EARN) [CLICK ME](https://github.com/Vatshayan/INTERNSHIP)
 
