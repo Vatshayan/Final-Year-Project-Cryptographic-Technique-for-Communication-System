@@ -53,8 +53,6 @@ Email me Now **vatshayan007@gmail.com** to get this Full Project Code, PPT, Repo
 
 💬 Gmail: **vatshayan007@gmail.com**
 
-## PROJECTS WEBSITE: [LINK1](https://vatshayan007.wixsite.com/website)
-
 ## INTERNSHIP (LEARN & EARN) [CLICK ME](https://github.com/Vatshayan/INTERNSHIP)
 
 मित्र, বন্ধু, நண்பர், دوست, స్నేహితుడు, friend I am here to help you, Don't worry Mail or Message me anytime😄
