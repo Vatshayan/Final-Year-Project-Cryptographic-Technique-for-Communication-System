@@ -60,12 +60,5 @@ Email me Now **vatshayan007@gmail.com** to get this Full Project Code, PPT, Repo
 
 
 
-### Support Me 🙏
-If you Like Idea/ Research Paper/ Project then Support me 🙏🏻
-
-<a href="https://paypal.me/shivamvatshayan1?locale.x=en_GB">
-<img src="https://www.freepnglogos.com/uploads/paypal-logo-png-7.png" width="80" height="80"/>
-</a> 
-<a href="https://payu.in/pay/EF5CC807B025152D0345FF03AB2352E5">
-<img src="https://cdn.freelogovectors.net/wp-content/uploads/2019/02/payumoney-logo.png" width="150" height="80"/>
-</a>
+### Liked Project?
+If you Like Idea/ Research Paper/Project then Mail or Click on Star button🙏🏻
