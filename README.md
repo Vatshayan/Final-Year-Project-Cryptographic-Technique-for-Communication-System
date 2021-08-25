@@ -53,11 +53,9 @@ Email me Now **vatshayan007@gmail.com** to get this Full Project Code, PPT, Repo
 
 💬 Gmail: **vatshayan007@gmail.com**
 
-## INTERNSHIP (LEARN & EARN) [CLICK ME](https://github.com/Vatshayan/INTERNSHIP)
-
 मित्र, বন্ধু, நண்பர், دوست, స్నేహితుడు, friend I am here to help you, Don't worry Mail or Message me anytime😄
 
-## TOP CSE PROJECTS [CLICK](https://vatshayan007.wixsite.com/website)
+## TOP CSE PROJECTS [CLICK](https://www.cse-projects.com)
 
 ### Liked Project?
 If you Like Idea/ Research Paper/Project then Mail or Click on Star button🙏🏻
