@@ -21,7 +21,7 @@ In Today’s world Sensitive data is increasingly used in communication over the
 
 Keywords: Encryption, Cryptography, Algorithm, Ciphers.
 
-## Youtube video of the project: **https://youtu.be/DcmO-Xe7GVk**
+### Youtube video of this project: **[LINK](https://youtu.be/DcmO-Xe7GVk)**
 
 ## RESEARCH PAPER
 
@@ -53,7 +53,7 @@ Email me Now **vatshayan007@gmail.com** to get this Full Project Code, PPT, Repo
 
 💬 Gmail: **vatshayan007@gmail.com**
 
-मित्र, বন্ধু, நண்பர், دوست, స్నేహితుడు, friend I am here to help you, Don't worry Mail or Message me anytime😄
+I am here to help you, Don't worry Mail or Message me anytime😄
 
 #### TOP CSE PROJECTS [CLICK](https://www.cse-projects.com)
 
