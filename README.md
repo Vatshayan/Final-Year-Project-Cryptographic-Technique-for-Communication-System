@@ -55,10 +55,8 @@ Email me Now **vatshayan007@gmail.com** to get this Full Project Code, PPT, Repo
 
 I am here to help you, Don't worry Mail or Message me anytime😄
 
-#### TOP CSE PROJECTS [CLICK](https://www.cse-projects.com)
-
 ### Liked Project?
 If you Like Idea/ Research Paper/Project then Mail or Click on Star button🙏🏻
 
-### CSE Projects: [LINK](https://www.cse-projects.com)
+### CSE PROJECTS: [LINK](https://www.cse-projects.com)
 
