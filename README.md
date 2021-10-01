@@ -58,5 +58,5 @@ I am here to help you, Don't worry Mail or Message me anytime😄
 ### Liked Project?
 If you Like Idea/ Research Paper/Project then Mail or Click on Star button🙏🏻
 
-### CSE PROJECTS: [LINK](https://www.cse-projects.com)
+### COMPUTER SCIENCE PROJECT HELP: [CLICK HERE](https://www.cse-projects.com)
 
