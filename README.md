@@ -58,7 +58,10 @@ I am here to help you, Don't worry Mail or Message me anytime😄
 ### Liked Project?
 If you Like Idea/ Research Paper/Project then Mail or Click on Star button🙏🏻
 
-### New CSE Project (18 OCT 21) : [Road Detection System](https://github.com/Vatshayan/Road-Detection-System)
+### New CSE Project (18 OCT 21) : [Road Lane Detection System](https://github.com/Vatshayan/Road-Detection-System)
+
+### New CSE Project (21 OCT 21) : [Face Mask Detection Project](https://github.com/Vatshayan/Face-Mask-Detection-Project)
 
 ### COMPUTER SCIENCE PROJECT HELP: [CLICK HERE](https://www.cse-projects.com)
 
+Mail me for free Discusion 
