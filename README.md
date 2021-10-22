@@ -64,6 +64,6 @@ If you Like Idea/ Research Paper/Project then Mail or Click on Star buttonüôèü
 
 ### COMPUTER SCIENCE PROJECT HELP: [CLICK HERE](https://www.cse-projects.com)
 
-### Top 3 Cryptography Projects on Internet : [Blog](https://computerscienceproject.com)
+### Top 3 Cryptography Projects on Internet : [Blog](https://computerscienceproject.com/top-cryptography-final-year-projects-for-students)
 
 Mail/Message me for free Discussion 
