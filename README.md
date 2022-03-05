@@ -57,7 +57,6 @@ Email me Now **vatshayan007@gmail.com** to get this Full Project Code, PPT, Repo
 If you Like Idea/ Research Paper/Project then Mail or Click on Star button🙏🏻
 
 ### COMPUTER SCIENCE PROJECT HELP: [CLICK HERE](https://www.cse-projects.com)
-
-### Top 3 Cryptography Projects on Internet : [Blog](https://computerscienceproject.com/top-cryptography-final-year-projects-for-students)
+### Computer Projects List : https://computerscienceproject.com/
 
 Mail/Message me for Projects Help 🙏🏻
