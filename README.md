@@ -1,7 +1,7 @@
 #  CRYPTOGRAPHIC TECHNIQUE FOR COMMUNICATION SYSTEM 
 **Design and Analysis of Cryptographic Technique for Communication System**
 
-[![YouTube video](https://user-images.githubusercontent.com/28294942/103001367-da7a1200-4552-11eb-969a-1a2f9af22449.jpg)](https://youtu.be/DcmO-Xe7GVk)
+### Youtube Presentation : [Click](https://youtu.be/OW1LfCpM6Ac)
 
 ✅  This Project has been done in 8th Sem of Final year of my B.tech Computer Science Engineering 2020.
 
@@ -20,8 +20,8 @@ In Today’s world Sensitive data is increasingly used in communication over the
 
 Keywords: Encryption, Cryptography, Algorithm, Ciphers.
 
-### Youtube video of this project: **[CLICK_HERE](https://youtu.be/DcmO-Xe7GVk)**
-[![YouTube video](https://www.kindpng.com/picc/m/23-234479_youtube-music-premium-and-youtube-premium-get-new.png)](https://youtu.be/DcmO-Xe7GVk)
+### Youtube video of this project: **[CLICK_HERE](https://youtu.be/OW1LfCpM6Ac)**
+[![YouTube video](https://www.kindpng.com/picc/m/23-234479_youtube-music-premium-and-youtube-premium-get-new.png)](https://youtu.be/OW1LfCpM6Ac)
 
 ## RESEARCH PAPER
 
