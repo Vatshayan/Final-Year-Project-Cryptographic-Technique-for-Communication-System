@@ -21,7 +21,6 @@ In Today’s world Sensitive data is increasingly used in communication over the
 Keywords: Encryption, Cryptography, Algorithm, Ciphers.
 
 ### Youtube video of this project: **[CLICK_HERE](https://youtu.be/OW1LfCpM6Ac)**
-[![YouTube video](https://www.kindpng.com/picc/m/23-234479_youtube-music-premium-and-youtube-premium-get-new.png)](https://youtu.be/OW1LfCpM6Ac)
 
 ## RESEARCH PAPER
 
