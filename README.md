@@ -42,17 +42,20 @@ https://user-images.githubusercontent.com/28294942/122656618-e8af9080-d179-11eb-
 Email me Now **vatshayan007@gmail.com** to get this Full Project Code, PPT, Report, Synopsis, Video Presentation and Research paper of this Project.
 
 💌 Feel free to contact me for any kind of help on any projects.
-[
-## 📫 HOW TO REACH ME 
 
-💬 WhatsApp: **[LINK](https://wa.me/message/CHWN2AHCPMAZK1) : +91 9310631437 (Helping 24*7)**
+### Need Code, Documents & Explanation video ? 
 
-💬 Gmail: **vatshayan007@gmail.com**](https://www.computer-science-project.in/)
+## How to Reach me :
 
-### COMPUTER SCIENCE PROJECT HELP: [CLICK HERE](https://www.cse-projects.com)
+### Mail : vatshayan007@gmail.com 
 
-### 1000 Computer Projects List : [CLICK HERE](https://www.computer-science-project.in/)
+### WhatsApp: **+91 9310631437** (Helping 24*7) **[CHAT](https://wa.me/message/CHWN2AHCPMAZK1)** 
 
+### Website : https://www.finalproject.in/
+
+### 1000 Computer Science Projects : https://www.computer-science-project.in/
+
+Mail/Message me for Projects Help 🙏🏻
 
 ### Liked Project?
 If you Like Idea/ Research Paper/Project then Mail or Click on Star button🙏🏻
