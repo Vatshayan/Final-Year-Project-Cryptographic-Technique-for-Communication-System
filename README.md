@@ -35,8 +35,6 @@ You can view and read my Research paper at- **[LINK](https://ieeexplore.ieee.org
 <h3 align="center">I'm a Developer from India ❤</h3>
 
 
-https://user-images.githubusercontent.com/28294942/122656618-e8af9080-d179-11eb-928b-5c30667010d3.mp4
-
 **You Can use this Beautiful Project for your college Project and get good marks too.**
 
 Email me Now **vatshayan007@gmail.com** to get this Full Project Code, PPT, Report, Synopsis, Video Presentation and Research paper of this Project.
