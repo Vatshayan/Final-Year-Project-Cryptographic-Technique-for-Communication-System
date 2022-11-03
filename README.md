@@ -9,8 +9,7 @@
 
 ✅  This Project is Salute to Army, Police and Security Officers. (Real Life Problem Solving Project)
 
-✅  This Project also been discussed and approved by DRDO Security Scientist "E" for its Efficiancy and Idea.
-
+✅  This Project also been discussed and approved by DRDO Security Scientist "Dr.Mishra" for its Efficiancy and Idea.
 
 ### ✌️ I have been Graded A+ and 9 SGPA in Sem 8 for my Combo work as for Working Python project and Publishing Scopus IEEE Research paper.
 
