@@ -27,10 +27,9 @@ Keywords: Encryption, Cryptography, Algorithm, Ciphers.
 
 You can view and read my Research paper at- **[LINK](https://ieeexplore.ieee.org/document/9199997)**
 
-![IEEE_paper_image](https://user-images.githubusercontent.com/28294942/102985981-10f56400-4536-11eb-94ed-5647af384dea.PNG)
 ******************************************************************************************************************************************************************************
 
-<h1 align="center"> नमस्ते (Namaste) 🙏🏻 , I'm Shivam Vatshayan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
+
 <h3 align="center">I'm a Developer from India ❤</h3>
 
 
@@ -44,9 +43,6 @@ Email me Now **vatshayan007@gmail.com** to get this Full Project Code, PPT, Repo
 
 ## How to Reach me :
 
-### Mail : vatshayan007@gmail.com 
-
-### WhatsApp: **+91 9310631437** (Helping 24*7) **[CHAT](https://wa.me/message/CHWN2AHCPMAZK1)** 
 
 ### Website : https://www.finalproject.in/
 
