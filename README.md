@@ -56,7 +56,7 @@ Email me Now **vatshayan007@gmail.com** to get this Full Project Code, PPT, Repo
 Mail/Message me for Projects Help 🙏🏻
 
 ### Liked Project?
-If you Like Idea/ Research Paper/Project then Mail or Click on Star button🙏🏻
+If you Like Idea/ Research Paper/ Project then Mail or Click on Star button🙏🏻
 
 
 ### Youtube Explanation Video of Project : https://youtu.be/DcmO-Xe7GVk
